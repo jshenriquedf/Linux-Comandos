@@ -26,13 +26,7 @@ O comando history tem algumas opções a saber:
 | -p | Execute a expansão do histórico em cada ARG e exiba o resultado sem armazená-lo na lista de históricos. |
 | -s | Anexe os ARGs à lista do histórico como uma única entrada. |
 
-    -c          # Limpa a lista do histórico
-    -d x        # Apaga a linha de número x
-    -a          # Adiciona os comandos da sessão corrente do bash ao arquivo de histórico
-
 O bash também oferece outras possibilidades de trabalho com o histórico de comandos:
-
-
 
 | Atalho | Descrição |
 | --- | --- |
@@ -55,3 +49,9 @@ O bash também oferece outras possibilidades de trabalho com o histórico de com
 | Ctrl y | Cola o texto apagado pelo comando anterior na tela |
 | Ctrl rtexto | Procura comandos que contenham o texto do último comando para o primeiro |
 | Ctrl stexto | Procura comandos que contenham o texto do primeiro comando para o último |
+
+Para exibir data e hora no comando history:
+
+    nano ~/.bashrc
+    export HISTTIMEFORMAT="%d/%m/%y %T "
+    
