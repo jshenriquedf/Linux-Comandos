@@ -2,7 +2,7 @@
 
 Essa página contém informções acerca do uso do History pelo SHELL.
 
-> **Note**:  Esses comandos serão utilizado no AlmaLinux. (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
+> **Note**:  Esses comandos serão utilizado no AlmaLinux. (). 
 
 ## Definições
 
