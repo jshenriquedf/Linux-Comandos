@@ -6,6 +6,8 @@ Essa página contém informções acerca do uso do History pelo SHELL.
 
 ## Definições
 
+No Linux, o comando history pode ser usado para mostrar a lista de comandos que foram executados recentemente. A variável HISTCONTROL é uma lista separada por dois pontos de valores que controlam como os comandos são salvos na lista de histórico. A variável HISTCONTROL nos permite armazenar o histórico do bash com mais eficiência. Ele pode ser usado para ignorar os comandos duplicados ou comandos com espaço em branco à esquerda ou ambos. Algumas opções:
+
 | Opções | Definição |
 | --- | --- |
 | 02-Explore relational data in Azure | Explore Azure SQL Database |
