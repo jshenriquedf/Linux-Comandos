@@ -1,8 +1,8 @@
-# DP-900 trainer lab mapping
+# Utilizando o HISTORY no SHELL
 
-This course, DP-900: Microsoft Azure Data Fundamentals, has a set of labs designated for instructor-led training. 
+Essa página contém informções acerca do uso do History pelo SHELL.
 
-> Note: Instructors may choose ask students to complete one or more labs on their own time by using the exercises in the associated Learn learning paths (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
+> Note: Esses comandos serão utilizado no AlmaLinux. (https://docs.microsoft.com/users/23110622/collections/0kjyh8rn5gdrjj). 
 
 ## DP-900 module mapping to labs
 
