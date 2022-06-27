@@ -2,12 +2,13 @@
 
 Essa página contém informções acerca do uso do History pelo SHELL.
 
-> **Note**:  Esses comandos serão utilizado no AlmaLinux. (). 
+> **Note**:  No Bash, seu histórico de comandos é armazenado em um arquivo ( .bash_history) em seu diretório inicial. O (.) À esquerda torna o arquivo oculto da visualização normal. Para vê-lo, execute o comando  ls -a.
+>    ls -a 
 
 ## Definições
 
 O comando history serve para listar o conteúdo do ~/.bash_history do usuário logado, e enumera as linhas do histórico de comandos.
-Ele pode ser usado para ignorar os comandos duplicados ou comandos com espaço em branco à esquerda ou ambos. Algumas opções:
+Ele pode ser usado para ignorar os comandos duplicados ou comandos com espaço em branco à esquerda ou ambos.
 
 Comando:
 
